@@ -1,0 +1,13 @@
+numbers= [10,20,30,40,50]
+print(numbers)
+numbers.append(100)
+print(numbers)
+numbers.extend([101,102,103])
+print(numbers)
+print(len(numbers))
+print(sum(numbers))
+print(max(numbers))
+print(min(numbers))
+numbers.sort()
+print(numbers)
+print(numbers[])
